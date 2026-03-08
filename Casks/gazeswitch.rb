@@ -1,6 +1,6 @@
 cask "gazeswitch" do
-  version "1.0.0"
-  sha256 "5a787258eda0ae0cf5b22fabc0821ab28bff9cafb98f772fe9ccc478db665388"
+  version "1.1.0"
+  sha256 "eac290082fd8b7783006325df5c858fd92f5680b5e0d0c35351d5373f7055f26"
 
   url "https://github.com/vetlehf/gazeswitch/releases/download/v#{version}/GazeSwitch-v#{version}.dmg"
   name "GazeSwitch"
